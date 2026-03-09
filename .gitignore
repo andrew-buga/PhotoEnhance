@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Середовища
+.env
+.venv
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/settings.json
+.idea/
+
+# Фото та медіа (не коммітимо тестові фото)
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.tiff
+*.bmp
+!assets/
+
+# Моделі (великі файли — не в git)
+models/
+*.pth
+*.pt
+*.onnx
+
+# Тимчасові файли
+temp/
+tmp/
+photoenhance_temp/
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Colab результати (локальні)
+results/
+output/
