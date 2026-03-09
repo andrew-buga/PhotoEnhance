@@ -2,7 +2,7 @@
 
 > Безкоштовне покращення якості фотографій за допомогою AI (Real-ESRGAN) через Google Colab.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/PhotoEnhance/blob/main/PhotoEnhance_MVP.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrew-buga/PhotoEnhance/blob/main/PhotoEnhance_MVP.ipynb)
 
 ---
 
@@ -26,7 +26,7 @@
 
 ### Крок 1 — Відкрий Notebook у Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/PhotoEnhance/blob/main/PhotoEnhance_MVP.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andrew-buga/PhotoEnhance/blob/main/PhotoEnhance_MVP.ipynb)
 
 Або вручну: [colab.research.google.com](https://colab.research.google.com) → File → Open Notebook → GitHub → вставити URL репозиторію.
 
@@ -104,7 +104,7 @@ Runtime → Change runtime type → Hardware accelerator: T4 GPU → Save
 
 ```bash
 # Клонування
-git clone https://github.com/YOUR_USERNAME/PhotoEnhance.git
+git clone https://github.com/andrew-buga/PhotoEnhance.git
 cd PhotoEnhance
 
 # Встановлення залежностей
