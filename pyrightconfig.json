@@ -1,0 +1,17 @@
+{
+  "reportMissingImports": "none",
+  "reportMissingModuleSource": "none",
+  "reportUndefinedVariable": "none",
+  "reportGeneralTypeIssues": "none",
+  "reportAttributeAccessIssue": "none",
+  "reportPossiblyUnbound": "none",
+  "reportOperatorIssue": "none",
+  "reportUnusedVariable": "none",
+  "reportUnusedImport": "none",
+  "reportUnusedExpression": "none",
+  "reportReturnType": "none",
+  "reportIndexIssue": "none",
+  "reportCallIssue": "none",
+  "reportArgumentType": "none",
+  "pythonVersion": "3.10"
+}
